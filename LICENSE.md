@@ -1,4 +1,4 @@
-
+secure MindManager for Windows Workflow | notes-integration + collaboration offers the most advanced MindManager for Windows workflow, with notes-integration and collaboration.
 
 
 
